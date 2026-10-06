@@ -1,0 +1,35 @@
+# Compiled Java Bytecode
+*.class
+
+# Log files
+*.log
+hs_err_pid*
+replay_pid*
+
+# Package Files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Build and Output Directories
+bin/
+out/
+target/
+build/
+
+# IDE & Editor metadata
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+*.ctxt
+.nb-gradle/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
